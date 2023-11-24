@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200px" width='100%' src="https://raw.githubusercontent.com/authorOf/authorof/main/banner.jpg"  />
+</div>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
